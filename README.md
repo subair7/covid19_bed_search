@@ -1,8 +1,8 @@
-# booksearch
+# Covid 19 Bed Search
 
 A new Flutter project.
 
-Bloc , RxDart , Provider - Consumer
+Bloc , RxDart 
 
 ## Getting Started
 
